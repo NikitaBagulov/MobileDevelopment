@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f92ce9e7-d5bc-4336-a226-8a58a09b5456" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="2WKfynJgdS2cBBhf6oyBf8sjy97" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\nikit\IdeaProjects\interface\src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="MainKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="interface" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="MainKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.MainKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f92ce9e7-d5bc-4336-a226-8a58a09b5456" name="Default Changelist" comment="" />
+      <created>1696486449001</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1696486449001</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="560" y="124" key="#com.intellij.ide.util.MemberChooser" timestamp="1697073486058">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="560" y="124" key="#com.intellij.ide.util.MemberChooser/0.0.1536.816@0.0.1536.816" timestamp="1697073486058" />
+    <state width="1493" height="202" key="GridCell.Tab.0.bottom" timestamp="1697079495470">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="202" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1697079495470" />
+    <state width="1493" height="202" key="GridCell.Tab.0.center" timestamp="1697079495470">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="202" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1697079495470" />
+    <state width="1493" height="202" key="GridCell.Tab.0.left" timestamp="1697079495470">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="202" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1697079495470" />
+    <state width="1493" height="202" key="GridCell.Tab.0.right" timestamp="1697079495470">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="202" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1697079495470" />
+    <state x="465" y="232" key="com.intellij.ide.util.TipDialog" timestamp="1697071332709">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="465" y="232" key="com.intellij.ide.util.TipDialog/0.0.1536.816@0.0.1536.816" timestamp="1697071332709" />
+  </component>
+</project>
